@@ -11,9 +11,10 @@ Then click the "Submit" button to start scraping tweets.
 The scraped tweets will be displayed in a dataframe.
 You can then click the "upload data to database" button to upload the scraped tweets to a MongoDB database. 
 The app will create a new collection in the "test2" database with the name of the keyword and timestamp.
-You can also download the scraped tweets in either CSV or JSON format by clicking the "download" button 
+You can also download the scraped tweets in either CSV or JSON format by clicking the "download" button, 
 and then selecting either "CSV" or "JSON". 
-The downloaded files will be saved in the "C:/Users/R2/Downloads/" directory with the name of the keyword and timestamp.
+The downloaded files will be saved in the "C:/Users/R2/Downloads/",
+directory with the name of the keyword and timestamp.
 ```
 ```
 #Requirements:
